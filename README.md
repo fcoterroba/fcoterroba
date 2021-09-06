@@ -17,7 +17,7 @@ I was born in 99 and right now I'm living in Malaga, Spain.
 
 2021'05 - ????'?? | Wordpress developer. Freelance 
 
-2021'03 - 2021'09 | Front-end developer. [Avature](https://www.avature.net/)
+2021'09 - ????'?? | Front-end developer. [Avature](https://www.avature.net/)
 
 
 ## Languages and Technologies 👨🏻‍💻
