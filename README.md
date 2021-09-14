@@ -7,7 +7,7 @@ I was born in 99 and right now I'm living in Malaga, Spain.
 
 2017-2019 | C.F.G.M. Sistemas Microinformáticos y Redes. IES Portada Alta, Málaga
 
-2019-2021 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Aguadulce, Almería
+2019-2022 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Aguadulce, Almería
 ## Work Experience 💼
 2021'02 - 2021'05 | Full-Stack developer. Ideanto, Málaga
 
