@@ -9,7 +9,7 @@ I was born in 99 and right now I'm living in Malaga, Spain.
 
 2019-2022 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Aguadulce, Almería
 ## Work Experience 💼
-2021'02 - 2021'05 | Full-Stack developer. Ideanto, Málaga
+2021'02 - 2021'05 | Full-Stack developer. [Ideanto](https://ideanto.com/)
 
 2021'03 - 2021'04 | Remote Python (Numpy, Pandas, Conda) teacher. Freelance
 
