@@ -1,13 +1,15 @@
 # Hi! I'm Fran! 👋🏻
 Hola! my fullname is Francisco Juan Terroba Sánchez (fcoterroba on Internet)
 
-I was born in 99 and right now I'm living in Malaga, Spain.
+I was born in 99 and right now I'm living in Santa Pola, Alicante, Spain.
 ## Official Education 👨🏻‍🎓
 2015-2017 | F.P.B. Informática y Telecomunicaciones. IES Belén, Málaga
 
 2017-2019 | C.F.G.M. Sistemas Microinformáticos y Redes. IES Portada Alta, Málaga
 
-2019-2022 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Aguadulce, Almería
+2019-2023 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Aguadulce, Almería
+
+2023-2028 | Ingeniería Informática. UNED
 ## Work Experience 💼
 2021'02 - 2021'05 | Full-Stack developer. [Ideanto](https://ideanto.com/)
 
