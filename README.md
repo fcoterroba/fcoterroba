@@ -18,7 +18,7 @@ i was born in 99, in malaga but i'm currently living between alicante and valenc
 
 2021'03 - 2021'04 | remote freelance python teacher (numpy, pandas, conda)
 
-2021'03 - 2021'09 | fullstack developer @ [@newe (clothify)](https://www.linkedin.com/company/newe-eco/?originalSubdomain=es)
+2021'03 - 2021'09 | fullstack developer @ [newe (clothify)](https://www.linkedin.com/company/newe-eco/?originalSubdomain=es)
 
 2021'09 - 2024'03 | fullstack developer @ [avature](https://www.avature.net/)
 
