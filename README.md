@@ -12,7 +12,7 @@ i was born in 99, in malaga but i'm currently living between alicante and valenc
 
 2023-2028 | ingeniería informática. uned
 
-## Work Experience 💼
+## work experience
 
 2021'02 - 2021'05 | fullstack developer @ [ideanto](https://ideanto.com/)
 
