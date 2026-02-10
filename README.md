@@ -22,7 +22,7 @@ i was born in 99, in malaga but i'm currently living between alicante and valenc
 
 2021'09 - 2024'03 | fullstack developer @ [avature](https://www.avature.net/)
 
-2024'07 - 2025'02 | fullstack developer @ [betterFly](https://betterfly.com/es/)
+2024'07 - 2025'02 | fullstack developer @ [betterfly](https://betterfly.com/es/)
 
 2021'05 - 2025'10 | freelance wordpress developer
 
