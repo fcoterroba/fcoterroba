@@ -27,3 +27,7 @@ i was born in 99, in malaga but i'm currently living between alicante and valenc
 2021'05 - 2025'10 | freelance wordpress developer
 
 2025'02 - ????'?? | fullstack developer @ [tutramitefacil](https://tutramitefacil.es/)
+
+---
+
+![my codewars badge](https://www.codewars.com/users/fcoterroba/badges/large)
